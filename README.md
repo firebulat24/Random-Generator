@@ -23,4 +23,4 @@ Settings: You can change the list syntax, choose whether to copy or save the res
 
 ## CHANGELOG
 ### Version 1.0.0
-- Has been added the ENTIRE PROGRAM.
+- Has been added the ENTIRE CODE.
