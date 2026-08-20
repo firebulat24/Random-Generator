@@ -24,3 +24,6 @@ Settings: You can change the list syntax, choose whether to copy or save the res
 ## CHANGELOG
 ### Version 1.0.0
 - Has been added the ENTIRE CODE.
+
+### Version 1.0.1
+- Fixed a bug where the Choice and Shuffle modes were malfunctioning and causing an error.
